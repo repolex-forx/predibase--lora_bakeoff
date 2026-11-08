@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/predibase/lora_bakeoff/commit/2ac88b9586058c16d83709b3021e5516f532ce51",
       "git:hexsha": "2ac88b9586058c16d83709b3021e5516f532ce51",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
