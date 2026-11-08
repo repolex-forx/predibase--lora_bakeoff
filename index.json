@@ -1,0 +1,11 @@
+{
+  "org": "predibase",
+  "repo": "lora_bakeoff",
+  "versions": [
+    {
+      "commit": "2ac88b9586058c16d83709b3021e5516f532ce51",
+      "tag": "",
+      "parsed_at": "2026-11-08T09:13:06.480157+00:00"
+    }
+  ]
+}
